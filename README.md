@@ -20,7 +20,7 @@ It explores the features using CRISP-DM. In the modeling process we use the foll
 - [Scipy](https://scipy.org/)
 
 ## Articles
-- [Medium Part](https://wamae.medium.com/house-sale-price-prediction-358efd5ee432)
+- [Medium Part1](https://wamae.medium.com/house-sale-price-prediction-358efd5ee432)
 
 ## Installation
 
