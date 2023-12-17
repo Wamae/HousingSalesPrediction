@@ -19,6 +19,9 @@ It explores the features using CRISP-DM. In the modeling process we use the foll
 - [Matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
 - [Scipy](https://scipy.org/)
 
+## Articles
+- [Medium Part](https://wamae.medium.com/house-sale-price-prediction-358efd5ee432)
+
 ## Installation
 
 To run the notebook use your favorite IDE and just press run.
