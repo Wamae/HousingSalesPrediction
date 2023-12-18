@@ -3,7 +3,7 @@
 ## Description
 
 This project is an analysis of house sale data in Ames IOWA from 1872 - 2010.
-It explores the features using CRISP-DM. In the modeling process we use the following models:
+It explores the features using CRISP-DM. In the modelling process, we used the following models:
 
 - [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 - [Ridge Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
